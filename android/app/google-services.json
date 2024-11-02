@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1077494402266",
+    "project_id": "ahmad-simple-task",
+    "storage_bucket": "ahmad-simple-task.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1077494402266:android:109ff0b7bea462883c29e3",
+        "android_client_info": {
+          "package_name": "com.example.eol_final"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvOvVVlNajb3IodiDY2whNk-pdL0EPfdA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,1499 @@
+{
+  "ec2instances": [
+    [
+      {
+        "instanceid": "i-03e045a1792f01737",
+        "os": "red hat enterprise linux",
+        "osversion": null
+      }
+    ],
+    [
+      {
+        "instanceid": "i-0f25dab5cb60f09ea",
+        "os": "red hat enterprise linux",
+        "osversion": null
+      }
+    ],
+    [
+      {
+        "instanceid": "i-0ded695b13d4fb29d",
+        "os": "red hat enterprise linux",
+        "osversion": null
+      }
+    ],
+    [
+      {
+        "instanceid": "i-0ccd1fd9eb987efb6",
+        "os": "red hat enterprise linux",
+        "osversion": null
+      }
+    ],
+    [
+      {
+        "instanceid": "i-09220abb68f7debf5",
+        "os": "red hat enterprise linux",
+        "osversion": null
+      }
+    ],
+    [
+      {
+        "instanceid": "i-0cb83727ec3c789f1",
+        "os": "red hat enterprise linux",
+        "osversion": null
+      }
+    ],
+    [
+      {
+        "instanceid": "i-0dd8c8119e5d6d460",
+        "os": "linux/unix",
+        "osversion": null
+      }
+    ],
+    [
+      {
+        "instanceid": "i-06706aa1feeb45f2a",
+        "os": "windows",
+        "osversion": null
+      }
+    ],
+    [
+      {
+        "instanceid": "i-056877519cd23cd82",
+        "os": "linux/unix",
+        "osversion": null
+      }
+    ],
+    [
+      {
+        "instanceid": "i-012167ead9d6220fa",
+        "os": "windows",
+        "osversion": null
+      }
+    ],
+    [
+      {
+        "instanceid": "i-096573cabfbfb8eb1",
+        "os": "red hat enterprise linux",
+        "osversion": null
+      }
+    ],
+    [
+      {
+        "instanceid": "i-029fb09b69eec6aee",
+        "os": "red hat enterprise linux",
+        "osversion": null
+      }
+    ],
+    [
+      {
+        "instanceid": "i-0f70bcf949067af6c",
+        "os": "linux/unix",
+        "osversion": null
+      }
+    ],
+    [
+      {
+        "instanceid": "i-0fe39b2e5bb23139a",
+        "os": "windows",
+        "osversion": null
+      }
+    ],
+    [
+      {
+        "instanceid": "i-04e803de324cf1b36",
+        "os": "windows",
+        "osversion": null
+      }
+    ],
+    [
+      {
+        "instanceid": "i-0796f3b1d41f9c023",
+        "os": "windows",
+        "osversion": null
+      }
+    ],
+    [
+      {
+        "instanceid": "i-072787ae2330a9413",
+        "os": "windows",
+        "osversion": null
+      }
+    ],
+    [
+      {
+        "instanceid": "i-0317c78f84eea529f",
+        "os": "windows",
+        "osversion": null
+      }
+    ],
+    [
+      {
+        "instanceid": "i-0efb5d2058c4d5acd",
+        "os": "linux/unix",
+        "osversion": null
+      }
+    ],
+    [
+      {
+        "instanceid": "i-098d65a63e3c1c5b3",
+        "os": "windows",
+        "osversion": null
+      }
+    ],
+    [
+      {
+        "instanceid": "i-0db3758bc13190062",
+        "os": "windows",
+        "osversion": null
+      }
+    ],
+    [
+      {
+        "instanceid": "i-04a1807d2e588d686",
+        "os": "linux/unix",
+        "osversion": null
+      }
+    ],
+    [
+      {
+        "instanceid": "i-0145268609c3869c1",
+        "os": "windows",
+        "osversion": null
+      }
+    ],
+    [
+      {
+        "instanceid": "i-0e8de9926e7f13a9c",
+        "os": "linux/unix",
+        "osversion": null
+      }
+    ],
+    [
+      {
+        "instanceid": "i-03f752dfdca9bead4",
+        "os": "red hat enterprise linux",
+        "osversion": null
+      }
+    ],
+    [
+      {
+        "instanceid": "i-0192b625aca5ead3b",
+        "os": "red hat enterprise linux",
+        "osversion": null
+      }
+    ],
+    [
+      {
+        "instanceid": "i-001def51a7ab7eb5b",
+        "os": "windows with sql server enterprise",
+        "osversion": null
+      }
+    ],
+    [
+      {
+        "instanceid": "i-059e51ce4920cc6c6",
+        "os": "red hat enterprise linux",
+        "osversion": null
+      }
+    ],
+    [
+      {
+        "instanceid": "i-0c36228f7cbc839bd",
+        "os": "red hat enterprise linux",
+        "osversion": null
+      }
+    ],
+    [
+      {
+        "instanceid": "i-061a7216cf37c8950",
+        "os": "windows",
+        "osversion": null
+      }
+    ],
+    [
+      {
+        "instanceid": "i-066e0dc9fcc6bd8af",
+        "os": "windows",
+        "osversion": null
+      }
+    ],
+    [
+      {
+        "instanceid": "i-0139fb97269930c97",
+        "os": "linux/unix",
+        "osversion": null
+      }
+    ],
+    [
+      {
+        "instanceid": "i-02987b4f7b08b46cd",
+        "os": "windows",
+        "osversion": null
+      }
+    ],
+    [
+      {
+        "instanceid": "i-00ac2e77a2b961a3c",
+        "os": "windows",
+        "osversion": null
+      }
+    ],
+    [
+      {
+        "instanceid": "i-00f335e5a66b2ce95",
+        "os": "red hat enterprise linux",
+        "osversion": null
+      }
+    ],
+    [
+      {
+        "instanceid": "i-070d922d73e8562c5",
+        "os": "windows",
+        "osversion": null
+      }
+    ],
+    [
+      {
+        "instanceid": "i-07bee852d1437ddac",
+        "os": "windows",
+        "osversion": null
+      }
+    ],
+    [
+      {
+        "instanceid": "i-02de49c245a01a5aa",
+        "os": "red hat enterprise linux",
+        "osversion": null
+      }
+    ],
+    [
+      {
+        "instanceid": "i-04b73e7f6f98d7e48",
+        "os": "red hat enterprise linux",
+        "osversion": null
+      }
+    ],
+    [
+      {
+        "instanceid": "i-0b11f884aa17920a5",
+        "os": "windows",
+        "osversion": null
+      }
+    ],
+    [
+      {
+        "instanceid": "i-09c843a9e851f59f2",
+        "os": "windows",
+        "osversion": null
+      }
+    ],
+    [
+      {
+        "instanceid": "i-06cbc56077089ffb3",
+        "os": "windows",
+        "osversion": null
+      }
+    ],
+    [
+      {
+        "instanceid": "i-0c7c43a81334e1f0f",
+        "os": "red hat enterprise linux",
+        "osversion": null
+      }
+    ],
+    [
+      {
+        "instanceid": "i-0cda2752c72017fb3",
+        "os": "red hat enterprise linux",
+        "osversion": null
+      }
+    ],
+    [
+      {
+        "instanceid": "i-0323d5666f2e64aa2",
+        "os": "linux/unix",
+        "osversion": null
+      }
+    ],
+    [
+      {
+        "instanceid": "i-06a7bec0a5c8f39d7",
+        "os": "linux/unix",
+        "osversion": null
+      }
+    ],
+    [
+      {
+        "instanceid": "i-04fe3fb0d3d274337",
+        "os": "linux/unix",
+        "osversion": null
+      },
+      {
+        "instanceid": "i-03f531adf0796a774",
+        "os": "linux/unix",
+        "osversion": null
+      }
+    ],
+    [
+      {
+        "instanceid": "i-0e807844170cedb25",
+        "os": "linux/unix",
+        "osversion": null
+      }
+    ],
+    [
+      {
+        "instanceid": "i-0535a9125c567819b",
+        "os": "linux/unix",
+        "osversion": null
+      }
+    ],
+    [
+      {
+        "instanceid": "i-0788f18de4075e56e",
+        "os": "linux/unix",
+        "osversion": null
+      }
+    ],
+    [
+      {
+        "instanceid": "i-0b8be54f0ec3520eb",
+        "os": "linux/unix",
+        "osversion": null
+      }
+    ],
+    [
+      {
+        "instanceid": "i-02fad01eae5407d31",
+        "os": "linux/unix",
+        "osversion": null
+      }
+    ],
+    [
+      {
+        "instanceid": "i-0a29f086880837d2a",
+        "os": "linux/unix",
+        "osversion": null
+      }
+    ],
+    [
+      {
+        "instanceid": "i-007b07b3b5d539467",
+        "os": "linux/unix",
+        "osversion": null
+      }
+    ],
+    [
+      {
+        "instanceid": "i-04071562dc95829d5",
+        "os": "linux/unix",
+        "osversion": null
+      }
+    ],
+    [
+      {
+        "instanceid": "i-0af5de3ff5f4f2beb",
+        "os": "linux/unix",
+        "osversion": null
+      }
+    ],
+    [
+      {
+        "instanceid": "i-04babb0f0b4d93d90",
+        "os": "red hat enterprise linux",
+        "osversion": null
+      }
+    ],
+    [
+      {
+        "instanceid": "i-03a5b33bf7c0b2dd9",
+        "os": "red hat enterprise linux",
+        "osversion": null
+      }
+    ],
+    [
+      {
+        "instanceid": "i-087da1b5b9c34332b",
+        "os": "red hat enterprise linux",
+        "osversion": null
+      }
+    ],
+    [
+      {
+        "instanceid": "i-050181bda4400e28f",
+        "os": "red hat enterprise linux",
+        "osversion": null
+      }
+    ],
+    [
+      {
+        "instanceid": "i-0da7268d19c5620bd",
+        "os": "red hat enterprise linux",
+        "osversion": null
+      }
+    ],
+    [
+      {
+        "instanceid": "i-01676ac7b79340e63",
+        "os": "linux/unix",
+        "osversion": null
+      }
+    ],
+    [
+      {
+        "instanceid": "i-006bc68714d2e3b41",
+        "os": "linux/unix",
+        "osversion": null
+      }
+    ],
+    [
+      {
+        "instanceid": "i-0ffbda48e22b81289",
+        "os": "linux/unix",
+        "osversion": null
+      }
+    ],
+    [
+      {
+        "instanceid": "i-0eb86fc2fa6920f14",
+        "os": "red hat enterprise linux",
+        "osversion": null
+      }
+    ],
+    [
+      {
+        "instanceid": "i-08d1fca4417a28602",
+        "os": "linux/unix",
+        "osversion": null
+      }
+    ],
+    [
+      {
+        "instanceid": "i-011132ff71da0a54d",
+        "os": "linux/unix",
+        "osversion": null
+      }
+    ],
+    [
+      {
+        "instanceid": "i-0b2b33e7dd6c537ea",
+        "os": "linux/unix",
+        "osversion": null
+      }
+    ],
+    [
+      {
+        "instanceid": "i-0296be7605007c093",
+        "os": "linux/unix",
+        "osversion": null
+      }
+    ],
+    [
+      {
+        "instanceid": "i-03e341494776fe161",
+        "os": "linux/unix",
+        "osversion": null
+      }
+    ],
+    [
+      {
+        "instanceid": "i-007efff9602f6ad92",
+        "os": "linux/unix",
+        "osversion": null
+      }
+    ],
+    [
+      {
+        "instanceid": "i-0eb52e73e2edcbe32",
+        "os": "linux/unix",
+        "osversion": null
+      }
+    ],
+    [
+      {
+        "instanceid": "i-032938ed94b546d17",
+        "os": "red hat enterprise linux",
+        "osversion": null
+      }
+    ]
+  ],
+  "lambdafunctions": [
+    {
+      "functionname": "api-ol-v1-riskrating-lambda",
+      "runtime": "java8"
+    },
+    {
+      "functionname": "dormancy-detection-dailyrun",
+      "runtime": "python3.7"
+    },
+    {
+      "functionname": "awssecurityautomationsbb-webaclstack-4-customtimer-1evxwlqqxq93e",
+      "runtime": "python3.8"
+    },
+    {
+      "functionname": "api-ol-v3-agecheck-lambda",
+      "runtime": "java8"
+    },
+    {
+      "functionname": "api-ol-v2-accountcreation-lambda",
+      "runtime": "java8"
+    },
+    {
+      "functionname": "api-ol-v1-addresslengthcheck-lambda",
+      "runtime": "java8"
+    },
+    {
+      "functionname": "jor-ops-team-create-identification-case-lambda",
+      "runtime": "python3.11"
+    },
+    {
+      "functionname": "api-jor-postgres-aurora-db-init",
+      "runtime": "python3.8"
+    },
+    {
+      "functionname": "awssecurityautomationsbb-moves3logsforpartition-1ada0aenskik4",
+      "runtime": "python3.8"
+    },
+    {
+      "functionname": "api-ol-v1-documentvalidation-lambda",
+      "runtime": "java8"
+    },
+    {
+      "functionname": "s3filerename",
+      "runtime": "python3.7"
+    },
+    {
+      "functionname": "api-afaq-load-data-participants",
+      "runtime": "python3.9"
+    },
+    {
+      "functionname": "amazonsecuritylakemetastoremanager-eu-west-1",
+      "runtime": "java17"
+    },
+    {
+      "functionname": "api-ol-v1-sendrecoverycode-lambda",
+      "runtime": "python3.8"
+    },
+    {
+      "functionname": "awssecurityautomationsbb-helper-1j335eo9wqb23",
+      "runtime": "python3.8"
+    },
+    {
+      "functionname": "api-ol-deletejumiodocuments-lambda",
+      "runtime": "java8"
+    },
+    {
+      "functionname": "api-ol-v3-sironcompliance-lambda",
+      "runtime": "java8"
+    },
+    {
+      "functionname": "api-ol-sendnotification-lambda",
+      "runtime": "java8"
+    },
+    {
+      "functionname": "api-ol-jor-v1-scanimage-lambda",
+      "runtime": "java8"
+    },
+    {
+      "functionname": "urbis-ha-active-passive-lambdafunction-1uu4oqcpp3uv",
+      "runtime": "python3.8"
+    },
+    {
+      "functionname": "api-ol-v3-signoffwathiqcase-lambda",
+      "runtime": "python3.8"
+    },
+    {
+      "functionname": "api-ol-documentvalidation-lambda",
+      "runtime": "java8"
+    },
+    {
+      "functionname": "api-ol-jor-v1-scanimagesync-lambda",
+      "runtime": "java8"
+    },
+    {
+      "functionname": "neo-ops-team-block-card-bulk-lambda",
+      "runtime": "python3.8"
+    },
+    {
+      "functionname": "api-ol-jor-v1-createefawateercustomer-lambda",
+      "runtime": "python3.8"
+    },
+    {
+      "functionname": "segment-fix",
+      "runtime": "python3.8"
+    },
+    {
+      "functionname": "api-ol-scanimage-lambda",
+      "runtime": "java8"
+    },
+    {
+      "functionname": "api-ol-jor-v1-onboardingfinalchecks-lambda",
+      "runtime": "python3.8"
+    },
+    {
+      "functionname": "api-ol-v1-idexpirycheck-lambda",
+      "runtime": "java8"
+    },
+    {
+      "functionname": "api-ol-v3-updatepepflag-lambda",
+      "runtime": "python3.8"
+    },
+    {
+      "functionname": "api-ol-jor-v1-sendtaskresult-lambda",
+      "runtime": "python3.8"
+    },
+    {
+      "functionname": "api-ol-jor-v1-addresslengthcheck-lambda",
+      "runtime": "java8"
+    },
+    {
+      "functionname": "api-ol-createcase-lambda",
+      "runtime": "java8"
+    },
+    {
+      "functionname": "api-ol-v2-deletejumiodocuments-lambda",
+      "runtime": "java8"
+    },
+    {
+      "functionname": "api-ol-v3-additionalinfo-lambda",
+      "runtime": "java8"
+    },
+    {
+      "functionname": "api-ol-v3-uploadwathiqdocument-lambda",
+      "runtime": "python3.8"
+    },
+    {
+      "functionname": "api-sftp-file-transfer",
+      "runtime": "python3.9"
+    },
+    {
+      "functionname": "ops_a24queries",
+      "runtime": "python3.8"
+    },
+    {
+      "functionname": "api-ol-v2-riskrating-lambda",
+      "runtime": "java8"
+    },
+    {
+      "functionname": "api-afaq-load-data-exchangerates",
+      "runtime": "python3.9"
+    },
+    {
+      "functionname": "secureworks-alb-scwx-tdr-lambda-awsalb",
+      "runtime": "provided.al2"
+    },
+    {
+      "functionname": "api-ol-v1-emailverification-lambda",
+      "runtime": "java8"
+    },
+    {
+      "functionname": "api-ol-v3-postparallel-lambda",
+      "runtime": "java8"
+    },
+    {
+      "functionname": "inventory-eks",
+      "runtime": "python3.6"
+    },
+    {
+      "functionname": "api-ol-v1-agecheck-lambda",
+      "runtime": "java8"
+    },
+    {
+      "functionname": "api-afaq-load-data-businessday",
+      "runtime": "python3.9"
+    },
+    {
+      "functionname": "api-ol-v3-sendrecoverycode-lambda",
+      "runtime": "python3.8"
+    },
+    {
+      "functionname": "aws-prod-dashboard-escognitoauthsetterlambda-j519co3vdwie",
+      "runtime": "python3.7"
+    },
+    {
+      "functionname": "api-ol-jor-v1-compliancecasestatus-lambda",
+      "runtime": "java8"
+    },
+    {
+      "functionname": "api-ol-v2-idvalidation-lambda",
+      "runtime": "java8"
+    },
+    {
+      "functionname": "api-ol-jor-v1-sendcallback-lambda",
+      "runtime": "python3.8"
+    },
+    {
+      "functionname": "api-ol-v3-idexpirycheck-lambda",
+      "runtime": "java8"
+    },
+    {
+      "functionname": "api-ol-v1-fatcacheck-lambda",
+      "runtime": "java8"
+    },
+    {
+      "functionname": "neo-ops-team-get-jumio-refrence-lambda",
+      "runtime": "python3.8"
+    },
+    {
+      "functionname": "ops_sqlrecoverycode",
+      "runtime": "python3.8"
+    },
+    {
+      "functionname": "crm-customer-status-sync",
+      "runtime": "python3.9"
+    },
+    {
+      "functionname": "inventory_rds",
+      "runtime": "python3.6"
+    },
+    {
+      "functionname": "api-ol-v3-riskrating-lambda",
+      "runtime": "java8"
+    },
+    {
+      "functionname": "api-ol-v2-postparallel-lambda",
+      "runtime": "java8"
+    },
+    {
+      "functionname": "api-ol-v1-postparallel-lambda",
+      "runtime": "java8"
+    },
+    {
+      "functionname": "onboarding-monitoring-function-sns",
+      "runtime": "python3.7"
+    },
+    {
+      "functionname": "transaction-monitoring-function-sns",
+      "runtime": "python3.7"
+    },
+    {
+      "functionname": "api-ol-sironcompliance-lambda",
+      "runtime": "java8"
+    },
+    {
+      "functionname": "aws-prod-dashboard-kibanacustomizerlambda-1up0t7wrazbjl",
+      "runtime": "python3.7"
+    },
+    {
+      "functionname": "awssecurityautomationsbb-logparser-1do6iiel8imq6",
+      "runtime": "python3.8"
+    },
+    {
+      "functionname": "api-ol-accountcreation-lambda",
+      "runtime": "java8"
+    },
+    {
+      "functionname": "api-ol-v3-sendnotification-lambda",
+      "runtime": "java8"
+    },
+    {
+      "functionname": "api-ol-v1-accountcreation-lambda",
+      "runtime": "java8"
+    },
+    {
+      "functionname": "api-ol-jor-v1-updatepepflag-lambda",
+      "runtime": "python3.8"
+    },
+    {
+      "functionname": "api-ol-v1-compliancecasestatus-lambda",
+      "runtime": "java8"
+    },
+    {
+      "functionname": "api-ol-v1-updatestate-lambda",
+      "runtime": "java8"
+    },
+    {
+      "functionname": "rds-maintenance-sns",
+      "runtime": "python3.8"
+    },
+    {
+      "functionname": "api-ol-v3-idnumbercomparison-lambda",
+      "runtime": "java8"
+    },
+    {
+      "functionname": "api-ol-v2-updatestate-lambda",
+      "runtime": "java8"
+    },
+    {
+      "functionname": "api-ol-v2-additionalinfo-lambda",
+      "runtime": "java8"
+    },
+    {
+      "functionname": "api-moengage-data-sync-txns-lambda",
+      "runtime": "python3.7"
+    },
+    {
+      "functionname": "api-ol-v3-addresslengthcheck-lambda",
+      "runtime": "java8"
+    },
+    {
+      "functionname": "inventory_vpc",
+      "runtime": "python3.6"
+    },
+    {
+      "functionname": "jor-ops-team-create-update-afs-account-lambda",
+      "runtime": "python3.8"
+    },
+    {
+      "functionname": "aws-prod-dashboard-userpooldomainsetterlambda-1mo4hlrezo8u3",
+      "runtime": "python3.7"
+    },
+    {
+      "functionname": "api-ol-idnumbercomparison-lambda",
+      "runtime": "java8"
+    },
+    {
+      "functionname": "dormancy-processing-trigger-lambda",
+      "runtime": "python3.7"
+    },
+    {
+      "functionname": "api-afaq-load-data-calendar",
+      "runtime": "python3.9"
+    },
+    {
+      "functionname": "api-ol-v2-idexpirycheck-lambda",
+      "runtime": "java8"
+    },
+    {
+      "functionname": "api-ol-v3-fetchwathiqdata-lambda",
+      "runtime": "python3.8"
+    },
+    {
+      "functionname": "api-ol-jor-v1-sendrecoverycode-lambda",
+      "runtime": "python3.8"
+    },
+    {
+      "functionname": "api-ol-v2-scanimage-lambda",
+      "runtime": "java8"
+    },
+    {
+      "functionname": "api-ol-v3-updatecrmcase-lambda",
+      "runtime": "python3.8"
+    },
+    {
+      "functionname": "aws-controltower-notificationforwarder",
+      "runtime": "python3.9"
+    },
+    {
+      "functionname": "api-ol-v2-sironcompliance-lambda",
+      "runtime": "java8"
+    },
+    {
+      "functionname": "jor-ops-team-create-virtual-card-lambda",
+      "runtime": "python3.8"
+    },
+    {
+      "functionname": "api-ol-jor-v1-updatestate-lambda",
+      "runtime": "java8"
+    },
+    {
+      "functionname": "api-ol-v3-updateadditionalinfopython-lambda",
+      "runtime": "python3.8"
+    },
+    {
+      "functionname": "cwsyn-tarabut-health-2e376911-b904-4885-b716-e1f3fce51329",
+      "runtime": "nodejs14.x"
+    },
+    {
+      "functionname": "api-ol-v1-sironcompliance-lambda",
+      "runtime": "java8"
+    },
+    {
+      "functionname": "neo-ops-team-create-virtual-card-lambda",
+      "runtime": "python3.8"
+    },
+    {
+      "functionname": "ops_urbisqueries",
+      "runtime": "python3.8"
+    },
+    {
+      "functionname": "crm_audit_trail_archive",
+      "runtime": "python3.11"
+    },
+    {
+      "functionname": "api-ol-additionalinfo-lambda",
+      "runtime": "java8"
+    },
+    {
+      "functionname": "ops_customerqueries",
+      "runtime": "python3.8"
+    },
+    {
+      "functionname": "api-ol-jor-v1-idexpirycheck-lambda",
+      "runtime": "java8"
+    },
+    {
+      "functionname": "api-ol-v2-sendrecoverycode-lambda",
+      "runtime": "python3.8"
+    },
+    {
+      "functionname": "secretsmanagerrotation-echeque",
+      "runtime": "python3.7"
+    },
+    {
+      "functionname": "secureworks-vpcflowlogs-scwx-tdr-lambda-awsvpcflow",
+      "runtime": "provided.al2"
+    },
+    {
+      "functionname": "api-ol-v1-additionalinfo-lambda",
+      "runtime": "java8"
+    },
+    {
+      "functionname": "ops_authcheck",
+      "runtime": "python3.8"
+    },
+    {
+      "functionname": "api-ol-jor-v1-updateadditionalinfopython-lambda",
+      "runtime": "python3.8"
+    },
+    {
+      "functionname": "aws-prod-dashboard-kibanaupdate-ggrnbltv88g5",
+      "runtime": "python3.7"
+    },
+    {
+      "functionname": "awssecurityautomationsbb-customresource-9055j5fpegth",
+      "runtime": "python3.8"
+    },
+    {
+      "functionname": "api-ol-v2-fatcacheck-lambda",
+      "runtime": "java8"
+    },
+    {
+      "functionname": "api-ol-jor-v1-registercliqcustomer-lambda",
+      "runtime": "java8"
+    },
+    {
+      "functionname": "api-ol-v1-sendcallback-lambda",
+      "runtime": "python3.8"
+    },
+    {
+      "functionname": "api-afaq-create-trigger",
+      "runtime": "python3.9"
+    },
+    {
+      "functionname": "mailchimp-api-query",
+      "runtime": "nodejs12.x"
+    },
+    {
+      "functionname": "inventory-ec2",
+      "runtime": "python3.6"
+    },
+    {
+      "functionname": "api-ol-v3-idvalidation-lambda",
+      "runtime": "java8"
+    },
+    {
+      "functionname": "api-ol-jor-v1-deletejumiodocuments-lambda",
+      "runtime": "java8"
+    },
+    {
+      "functionname": "api-ol-updatescan-lambda",
+      "runtime": "java8"
+    },
+    {
+      "functionname": "ops_resetrecoverycode",
+      "runtime": "python3.8"
+    },
+    {
+      "functionname": "redshift_copy",
+      "runtime": "python2.7"
+    },
+    {
+      "functionname": "jor-ops-team-create-jor-account-lambda",
+      "runtime": "python3.8"
+    },
+    {
+      "functionname": "api-aurora-db-init",
+      "runtime": "python3.8"
+    },
+    {
+      "functionname": "neo-ops-team-manual-ob-lambda",
+      "runtime": "python3.8"
+    },
+    {
+      "functionname": "urbisdbreadreplica2healthcheck",
+      "runtime": "python3.9"
+    },
+    {
+      "functionname": "api-ol-v3-sendtaskresult-lambda",
+      "runtime": "python3.8"
+    },
+    {
+      "functionname": "awssecurityautomationsbb-reputationlistsparser-auh92jjp420p",
+      "runtime": "python3.8"
+    },
+    {
+      "functionname": "api-ol-v3-scanimage-lambda",
+      "runtime": "java8"
+    },
+    {
+      "functionname": "api-ol-v2-addresslengthcheck-lambda",
+      "runtime": "java8"
+    },
+    {
+      "functionname": "api-ol-fatcacheck-lambda",
+      "runtime": "java8"
+    },
+    {
+      "functionname": "ops_emailchange",
+      "runtime": "python3.8"
+    },
+    {
+      "functionname": "api-moengage-sms-producer-lambda",
+      "runtime": "python3.9"
+    },
+    {
+      "functionname": "jor-ops-team-create-afs-customer-lambda",
+      "runtime": "python3.8"
+    },
+    {
+      "functionname": "api-ol-v1-scanimagesync-lambda",
+      "runtime": "java8"
+    },
+    {
+      "functionname": "bb_performance_checker",
+      "runtime": "nodejs16.x"
+    },
+    {
+      "functionname": "api-ol-v1-scanimage-lambda",
+      "runtime": "java8"
+    },
+    {
+      "functionname": "urbisdbreadreplica1healthcheck",
+      "runtime": "python3.9"
+    },
+    {
+      "functionname": "awssecurityautomationsbb-addathenapartitions-dsdo1xo1rkyb",
+      "runtime": "python3.8"
+    },
+    {
+      "functionname": "api-ol-jor-v1-fatcacheck-lambda",
+      "runtime": "java8"
+    },
+    {
+      "functionname": "mailchimp-cleaner",
+      "runtime": "python3.8"
+    },
+    {
+      "functionname": "api-ol-v2-scanimagesync-lambda",
+      "runtime": "java8"
+    },
+    {
+      "functionname": "api-ol-v3-deletejumiodocuments-lambda",
+      "runtime": "java8"
+    },
+    {
+      "functionname": "neo-ops-team-create-identification-case-lambda",
+      "runtime": "python3.8"
+    },
+    {
+      "functionname": "api-ol-v2-documentvalidation-lambda",
+      "runtime": "java8"
+    },
+    {
+      "functionname": "api-ol-jor-v1-sendnotification-lambda",
+      "runtime": "java8"
+    },
+    {
+      "functionname": "api-ol-jor-v1-postparallel-lambda",
+      "runtime": "java8"
+    },
+    {
+      "functionname": "api-ol-compliancecasestatus-lambda",
+      "runtime": "java8"
+    },
+    {
+      "functionname": "api-ol-jor-v1-sironcompliance-lambda",
+      "runtime": "java8"
+    },
+    {
+      "functionname": "api-ol-jor-v1-civilservicedata-lambda",
+      "runtime": "java8"
+    },
+    {
+      "functionname": "neo-ops-team-create-afs-customer-lambda",
+      "runtime": "python3.8"
+    },
+    {
+      "functionname": "api-ol-idvalidation-lambda",
+      "runtime": "java8"
+    },
+    {
+      "functionname": "api-ol-postparallel-lambda",
+      "runtime": "java8"
+    },
+    {
+      "functionname": "api-ol-jor-v1-updatecrmcase-lambda",
+      "runtime": "python3.8"
+    },
+    {
+      "functionname": "api-ol-jor-v1-agecheck-lambda",
+      "runtime": "java8"
+    },
+    {
+      "functionname": "api-ol-v3-updatestate-lambda",
+      "runtime": "java8"
+    },
+    {
+      "functionname": "api-ol-v3-onboardingprofilevalidation-lambda",
+      "runtime": "python3.8"
+    },
+    {
+      "functionname": "api-ol-jor-v1-documentvalidation-lambda",
+      "runtime": "java8"
+    },
+    {
+      "functionname": "jor-ops-team-block-card-bulk-lambda",
+      "runtime": "python3.9"
+    },
+    {
+      "functionname": "api-ol-v3-compliancecasestatus-lambda",
+      "runtime": "java8"
+    },
+    {
+      "functionname": "customer_archival_both",
+      "runtime": "python3.7"
+    },
+    {
+      "functionname": "api-moengage-sms-consumer-lambda",
+      "runtime": "python3.9"
+    },
+    {
+      "functionname": "api-ol-v2-sendnotification-lambda",
+      "runtime": "java8"
+    },
+    {
+      "functionname": "api-ol-updatestate-lambda",
+      "runtime": "java8"
+    },
+    {
+      "functionname": "api-ol-jor-v1-accountcreation-lambda",
+      "runtime": "java8"
+    },
+    {
+      "functionname": "neo-ops-team-create-bhd-account-lambda",
+      "runtime": "python3.8"
+    },
+    {
+      "functionname": "api-ol-v1-deletejumiodocuments-lambda",
+      "runtime": "java8"
+    },
+    {
+      "functionname": "lambdardsmaintenancewindow",
+      "runtime": "python3.8"
+    },
+    {
+      "functionname": "api-ol-v3-documentvalidation-lambda",
+      "runtime": "java8"
+    },
+    {
+      "functionname": "api-nlb-ips-lambda",
+      "runtime": "python2.7"
+    },
+    {
+      "functionname": "neo-ops-team-create-update-afs-account-lambda",
+      "runtime": "python3.8"
+    },
+    {
+      "functionname": "api-ol-v3-sendcallback-lambda",
+      "runtime": "python3.8"
+    },
+    {
+      "functionname": "api-ol-v2-sendcallback-lambda",
+      "runtime": "python3.8"
+    },
+    {
+      "functionname": "api-ol-v3-checkonboardingtype-lambda",
+      "runtime": "python3.8"
+    },
+    {
+      "functionname": "api-ol-riskrating-lambda",
+      "runtime": "java8"
+    },
+    {
+      "functionname": "api-ol-v3-createcase-lambda",
+      "runtime": "java8"
+    },
+    {
+      "functionname": "secureworks-aws-waf-bb-scwx-tdr-lambda-awswaf",
+      "runtime": "provided.al2"
+    },
+    {
+      "functionname": "api-ol-v2-createcase-lambda",
+      "runtime": "java8"
+    },
+    {
+      "functionname": "api-ol-v1-createcase-lambda",
+      "runtime": "java8"
+    },
+    {
+      "functionname": "jbaugh-test",
+      "runtime": "nodejs8.10"
+    },
+    {
+      "functionname": "api-ol-v2-idnumbercomparison-lambda",
+      "runtime": "java8"
+    },
+    {
+      "functionname": "ops_defaultlambda",
+      "runtime": "python3.8"
+    },
+    {
+      "functionname": "api-ol-v2-agecheck-lambda",
+      "runtime": "java8"
+    },
+    {
+      "functionname": "veriff-documents-reupload-function",
+      "runtime": "python3.8"
+    },
+    {
+      "functionname": "api-ol-v3-onboardingfinalchecks-lambda",
+      "runtime": "python3.8"
+    },
+    {
+      "functionname": "api-ol-jor-v1-createcase-lambda",
+      "runtime": "java8"
+    },
+    {
+      "functionname": "secureworks-cloudtrail-scwx-tdr-lambda-awscloudtrail",
+      "runtime": "provided.al2"
+    },
+    {
+      "functionname": "dormancy-copy-files",
+      "runtime": "python3.12"
+    },
+    {
+      "functionname": "bb_active_cluster_scaler",
+      "runtime": "python3.10"
+    },
+    {
+      "functionname": "api-moengage-data-sync-users-lambda",
+      "runtime": "python3.7"
+    },
+    {
+      "functionname": "api-ol-v1-idvalidation-lambda",
+      "runtime": "java8"
+    },
+    {
+      "functionname": "api-ol-idexpirycheck-lambda",
+      "runtime": "java8"
+    },
+    {
+      "functionname": "ops_generalqueries",
+      "runtime": "python3.8"
+    },
+    {
+      "functionname": "ping-monitoring-function-sns",
+      "runtime": "python3.8"
+    },
+    {
+      "functionname": "api-ol-v1-idnumbercomparison-lambda",
+      "runtime": "java8"
+    },
+    {
+      "functionname": "athena_redshift_connector",
+      "runtime": "java11"
+    },
+    {
+      "functionname": "api-ol-v3-accountcreation-lambda",
+      "runtime": "java8"
+    },
+    {
+      "functionname": "api-ol-v3-scanimagesync-lambda",
+      "runtime": "java8"
+    },
+    {
+      "functionname": "api-ol-jor-v1-idvalidation-lambda",
+      "runtime": "java8"
+    },
+    {
+      "functionname": "api-ol-v1-sendnotification-lambda",
+      "runtime": "java8"
+    },
+    {
+      "functionname": "ops_emailcheck",
+      "runtime": "python3.8"
+    },
+    {
+      "functionname": "api-ol-emailverification-lambda",
+      "runtime": "java8"
+    },
+    {
+      "functionname": "api-ol-v2-compliancecasestatus-lambda",
+      "runtime": "java8"
+    },
+    {
+      "functionname": "bb-jor-mysql-aurora-db-init",
+      "runtime": "python3.8"
+    },
+    {
+      "functionname": "api-ol-v3-fatcacheck-lambda",
+      "runtime": "java8"
+    },
+    {
+      "functionname": "api-ol-agecheck-lambda",
+      "runtime": "java8"
+    },
+    {
+      "functionname": "aws-secureworks-waf-apigee-logs-scwx-tdr-lambda-awswaf",
+      "runtime": "provided.al2"
+    }
+  ],
+  "rdsinstances": [
+    {
+      "dbinstanceidentifier": "a24-aurora-postgresql-rds-instance-1",
+      "engine": "aurora-postgresql",
+      "engineversion": "13.7"
+    },
+    {
+      "dbinstanceidentifier": "a24-aurora-postgresql-rds-instance-1-eu-west-1a",
+      "engine": "aurora-postgresql",
+      "engineversion": "13.7"
+    },
+    {
+      "dbinstanceidentifier": "api-aurora-1",
+      "engine": "aurora-postgresql",
+      "engineversion": "11.21"
+    },
+    {
+      "dbinstanceidentifier": "api-aurora-3",
+      "engine": "aurora-postgresql",
+      "engineversion": "11.21"
+    },
+    {
+      "dbinstanceidentifier": "api-jor-aurora-1",
+      "engine": "aurora-postgresql",
+      "engineversion": "11.21"
+    },
+    {
+      "dbinstanceidentifier": "api-jor-aurora-2",
+      "engine": "aurora-postgresql",
+      "engineversion": "11.21"
+    },
+    {
+      "dbinstanceidentifier": "archive-tmsx-efts",
+      "engine": "sqlserver-se",
+      "engineversion": "15.00.4236.7.v1"
+    },
+    {
+      "dbinstanceidentifier": "bb-serverless-1",
+      "engine": "aurora-mysql",
+      "engineversion": "8.0.mysql_aurora.3.06.0"
+    },
+    {
+      "dbinstanceidentifier": "cbs-migration",
+      "engine": "sqlserver-se",
+      "engineversion": "15.00.4345.5.v1"
+    },
+    {
+      "dbinstanceidentifier": "echeque",
+      "engine": "postgres",
+      "engineversion": "11.22"
+    },
+    {
+      "dbinstanceidentifier": "mr2k-bah",
+      "engine": "oracle-se2",
+      "engineversion": "19.0.0.0.ru-2021-10.rur-2021-10.r1"
+    },
+    {
+      "dbinstanceidentifier": "mr2k-jor",
+      "engine": "oracle-se2",
+      "engineversion": "19.0.0.0.ru-2021-10.rur-2021-10.r1"
+    },
+    {
+      "dbinstanceidentifier": "mr2k-reporting-db",
+      "engine": "sqlserver-se",
+      "engineversion": "15.00.4345.5.v1"
+    },
+    {
+      "dbinstanceidentifier": "mr2k-reporting-db-jor",
+      "engine": "sqlserver-se",
+      "engineversion": "15.00.4345.5.v1"
+    },
+    {
+      "dbinstanceidentifier": "pci-aurora-1",
+      "engine": "aurora-postgresql",
+      "engineversion": "11.21"
+    },
+    {
+      "dbinstanceidentifier": "pci-aurora-2",
+      "engine": "aurora-postgresql",
+      "engineversion": "11.21"
+    },
+    {
+      "dbinstanceidentifier": "pmaw91n4wfo8ya",
+      "engine": "sqlserver-se",
+      "engineversion": "13.00.6300.2.v1"
+    },
+    {
+      "dbinstanceidentifier": "pme5v4x54sod5w",
+      "engine": "sqlserver-se",
+      "engineversion": "13.00.6300.2.v1"
+    },
+    {
+      "dbinstanceidentifier": "po1ernpsgx9eqjw",
+      "engine": "oracle-se2",
+      "engineversion": "19.0.0.0.ru-2021-10.rur-2021-10.r1"
+    },
+    {
+      "dbinstanceidentifier": "tmsx-efts",
+      "engine": "sqlserver-se",
+      "engineversion": "15.00.4236.7.v1"
+    },
+    {
+      "dbinstanceidentifier": "tmsx-reporting-db",
+      "engine": "sqlserver-se",
+      "engineversion": "15.00.4236.7.v1"
+    },
+    {
+      "dbinstanceidentifier": "tmsx-rtgs",
+      "engine": "sqlserver-se",
+      "engineversion": "15.00.4316.3.v1"
+    },
+    {
+      "dbinstanceidentifier": "urbis-cbs-migration-rr",
+      "engine": "sqlserver-ee",
+      "engineversion": "13.00.6300.2.v1"
+    },
+    {
+      "dbinstanceidentifier": "urbis-rds-ent",
+      "engine": "sqlserver-ee",
+      "engineversion": "13.00.6300.2.v1"
+    },
+    {
+      "dbinstanceidentifier": "urbis-rds-ent-jor",
+      "engine": "sqlserver-ee",
+      "engineversion": "13.00.6300.2.v1"
+    },
+    {
+      "dbinstanceidentifier": "urbis-rds-ent-jor-rr1",
+      "engine": "sqlserver-ee",
+      "engineversion": "13.00.6300.2.v1"
+    },
+    {
+      "dbinstanceidentifier": "urbis-rds-ent-rr1",
+      "engine": "sqlserver-ee",
+      "engineversion": "13.00.6300.2.v1"
+    },
+    {
+      "dbinstanceidentifier": "urbis-rds-ent-rr2",
+      "engine": "sqlserver-ee",
+      "engineversion": "13.00.6300.2.v1"
+    },
+    {
+      "dbinstanceidentifier": "urbis-rds-ent-rr3",
+      "engine": "sqlserver-ee",
+      "engineversion": "13.00.6300.2.v1"
+    },
+    {
+      "dbinstanceidentifier": "urbis-reporting-cbs",
+      "engine": "sqlserver-ee",
+      "engineversion": "13.00.6300.2.v1"
+    },
+    {
+      "dbinstanceidentifier": "urbis-reporting-db",
+      "engine": "sqlserver-ee",
+      "engineversion": "13.00.6300.2.v1"
+    }
+  ]
+}
